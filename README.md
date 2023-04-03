@@ -1,2 +1,3 @@
 # tic-tac-toe-c-windows-form
-[Lab Exam 1 (Final-term).pdf](https://github.com/MD-ALAMIN-HOSSEN/tic-tac-toe-c-windows-form/files/11138658/Lab.Exam.1.Final-term.pdf)
+
+![Screenshot 2023-04-03 192010](https://user-images.githubusercontent.com/99692491/229522034-9e6f1cc3-cd5b-4bb8-b475-5a0716d44da9.png)
